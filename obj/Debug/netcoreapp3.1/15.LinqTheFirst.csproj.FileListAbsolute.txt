@@ -1,0 +1,12 @@
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\bin\Debug\netcoreapp3.1\15.LinqTheFirst.exe
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\bin\Debug\netcoreapp3.1\15.LinqTheFirst.deps.json
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\bin\Debug\netcoreapp3.1\15.LinqTheFirst.runtimeconfig.json
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\bin\Debug\netcoreapp3.1\15.LinqTheFirst.runtimeconfig.dev.json
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\bin\Debug\netcoreapp3.1\15.LinqTheFirst.dll
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\bin\Debug\netcoreapp3.1\15.LinqTheFirst.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\obj\Debug\netcoreapp3.1\15.LinqTheFirst.AssemblyInfoInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\obj\Debug\netcoreapp3.1\15.LinqTheFirst.AssemblyInfo.cs
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\obj\Debug\netcoreapp3.1\15.LinqTheFirst.csproj.CoreCompileInputs.cache
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\obj\Debug\netcoreapp3.1\15.LinqTheFirst.dll
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\obj\Debug\netcoreapp3.1\15.LinqTheFirst.pdb
+C:\Users\Bla\source\repos\01.LinqTuition\15.LinqTheFirst\obj\Debug\netcoreapp3.1\15.LinqTheFirst.genruntimeconfig.cache
